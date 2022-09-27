@@ -1,11 +1,13 @@
 # librecrypt
 Free cryptographic file encryption using the AES256 symmetric block cipher algorithm
 
+Requires Java Runtime Environment version 8 or higher!
+Download it here: https://java.com/
+
 To run with commandline
 java -jar librecrypt.jar --filePath ~/Desktop/path/to/file --password P@ssw0rd1
 
 To run with the gui simply right click and open the .jar file
-Java Runtime 1.8.x or higher is required to run this.
 
 Any issues note them in the Issues tab on the respository.
 
